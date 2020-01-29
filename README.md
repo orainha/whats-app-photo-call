@@ -43,6 +43,7 @@ Having a tablet directly plugged to power, which can show only the face photos o
 <ul>
   <li>1. Install an auto-run app, to run WhatsAppCall automaticaly on device boot</li> 
   <li>2. Get remote control of the device</li> 
+  <li>3. Set WhatsApp For Business to auto update to avoid problems</li> 
 </ul>
   
 

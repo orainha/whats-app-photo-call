@@ -1,4 +1,4 @@
-# whats-app-photo-call
+# WhatsApp Call
 Simple android app that calls to selected picture contact
 
 ![Main Example](/images/example.png)

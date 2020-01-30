@@ -1,6 +1,8 @@
 # WhatsApp Call
 Simple android app that calls to selected picture contact
 
+###### Made on Android Studio
+
 ![Main Example](/images/example.png)
 
 
@@ -50,8 +52,6 @@ Having a tablet directly plugged to power, which can show only the face photos o
 
 After this steps, you are ready to build this app on your tablet or other android device.
 
-
-###### Made on Android Studio
 
 
 
